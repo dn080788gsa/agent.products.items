@@ -11,8 +11,8 @@
         "description_ua": "пластикова картка, що дає можливість користуватися як власними грошима на картці, так і кредитними коштами. На цю картку можна отримувати перекази від родичів, знайомих або партнерів.",
         "img_urls": [
 		//"https://lh6.googleusercontent.com/V40DE7apUg0rRQpMRyf9hD19qwZvfQUFoYfWeCwyJebtdFSWSBcBa3egAau3TlQRC6pTcy0sfxZO_aoeN7thSy3UO6PBG-JCDNjJJ1XtjEC9NpyNrTmeDykrRSsEDIoXPc3E5p7h",
-                "blob:https://web.telegram.org/89915026-775a-43ca-ad7a-14a439f5e860",
-		"blob:https://web.telegram.org/f735c6e5-a3c2-4c87-a1a4-e9710930f910"
+                "https://d2z9uwnt8eubh7.cloudfront.net/media/default/0001/11/d60249307255d31628d9c580bd7f21fa56982f62.jpeg",
+		"https://d2z9uwnt8eubh7.cloudfront.net/media/default/0001/15/f0ee3424d0c4d42b18599180be44b961b5658b42.jpeg"
 		//"https://lh6.googleusercontent.com/iYTlFPi3kWiCUihnuozGDjle_9qPn1h8z4HwCLt3m8wrOQnG_iyay7K8IhEuwrzqWxRR_7ye4G2bqWUMeci12dcWHOmcEP7lJCuNFrzhLfihKdryy7R08FwDdlARYyuaQCnOOFRW"
         ],
         "const": {
@@ -53,7 +53,7 @@
         "img_urls": [
 		//"https://privatbank.ua/uploads/media/default/0001/01/dc13e7af968e41d2feee436a45991f44acb2e3d1.png",
                 //"https://privatbank.ua/sites/pb/img/kards/univers-gold.png"
-		"blob:https://web.telegram.org/f58ba7c6-65fc-497c-bc77-e531fa3f2419"
+		"https://d2z9uwnt8eubh7.cloudfront.net/media/default/0001/14/29cdac922918ccb753c83e95150dd561689acd56.png"
         ],
         "const": {
         	"limit_max": "75000 грн.",
